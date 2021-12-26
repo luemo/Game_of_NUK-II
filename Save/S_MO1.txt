@@ -1,0 +1,9 @@
+2
+
+MapCode 1060	Site (49,6)	Key 100
+Completed(Yes/No) (8,9)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1060	Site (50,6)	Key 100
+Completed(Yes/No) (8,9)
+PeopleChange (-1,-1,-1,-1)

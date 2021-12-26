@@ -1,0 +1,9 @@
+2
+
+MapCode 1042	Site (16,20)	Key 100
+Completed(Yes/No) (30,31)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1042	Site (16,15)	Key 100
+Completed(Yes/No) (32,33)
+PeopleChange (-1,-1,-1,-1)

@@ -1,0 +1,9 @@
+2
+
+MapCode 1010	Site (2,4)	Key -1
+Completed(Yes/No) (20,21)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1010	Site (25,20)	Key 100
+Completed(Yes/No) (29,30)
+PeopleChange (-1,20,-1,-1)

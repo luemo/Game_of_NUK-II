@@ -1,0 +1,17 @@
+4
+
+MapCode 1070	Site (9,22)	Key 100
+Completed(Yes/No) (1,2)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1070	Site (50,51)	Key 100
+Completed(Yes/No) (2,3)
+PeopleChange (-1,-1,19,-1)
+
+MapCode 1070	Site (9,22)	Key 100
+Completed(Yes/No) (11,12)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1070	Site (-1,-1)	Key -1
+Completed(Yes/No) (-1,13)
+PeopleChange (11,12,-1,-1)

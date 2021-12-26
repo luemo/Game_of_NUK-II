@@ -1,0 +1,21 @@
+5
+
+MapCode 1040	Site (51,19)	Key -1
+Completed(Yes/No) (15,16)
+PeopleChange (-1,-1,20,-1)
+
+MapCode 1040	Site (9,23)	Key 100
+Completed(Yes/No) (16,17)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1040	Site (8,2)	Key 100
+Completed(Yes/No) (17,37)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1040	Site (9,23)	Key 100
+Completed(Yes/No) (37,18)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1040	Site (9,23)	Key 100
+Completed(Yes/No) (31,32)
+PeopleChange (-1,-1,-1,-1)

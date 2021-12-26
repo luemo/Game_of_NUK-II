@@ -1,0 +1,33 @@
+9
+
+MapCode 1000	Site (-1,-1)	Key -1
+Completed(Yes/No) (-1,11)
+PeopleChange (5,10,-1,-1)
+
+MapCode 1000	Site (-1,-1)	Key -1
+Completed(Yes/No) (-1,35)
+PeopleChange (4,9,-1,-1)
+
+MapCode 1000	Site (64,25)	Key -1
+Completed(Yes/No) (-1,36)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1000	Site (64,26)	Key -1
+Completed(Yes/No) (-1,36)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1000	Site (65,25)	Key -1
+Completed(Yes/No) (-1,36)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1000	Site (65,26)	Key -1
+Completed(Yes/No) (-1,36)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1000	Site (-1,-1)	Key -1
+Completed(Yes/No) (-1,11)
+PeopleChange (5,10,-1,-1)
+
+MapCode 1000	Site (47,37)	Key 100
+Completed(Yes/No) (24,25)
+PeopleChange (-1,-1,-1,-1)

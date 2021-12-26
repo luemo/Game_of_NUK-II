@@ -1,0 +1,25 @@
+6
+
+MapCode 1050	Site (11,14)	Key 100
+Completed(Yes/No) (3,4)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1050	Site (49,7)	Key 100
+Completed(Yes/No) (3,5)
+PeopleChange (-1,-1,-1,16)
+
+MapCode 1050	Site (1,23)	Key 100
+Completed(Yes/No) (-1,34)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1050	Site (42,23)	Key 100
+Completed(Yes/No) (-1,8)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1050	Site (25,21)	Key 100
+Completed(Yes/No) (35,10)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1050	Site (26,21)	Key 100
+Completed(Yes/No) (35,10)
+PeopleChange (-1,-1,-1,-1)

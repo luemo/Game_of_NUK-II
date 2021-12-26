@@ -1,0 +1,9 @@
+2
+
+MapCode 1012	Site (9,7)	Key 100
+Completed(Yes/No) (0,1)
+PeopleChange (-1,-1,-1,-1)
+
+MapCode 1012	Site (9,8)	Key 100
+Completed(Yes/No) (0,1)
+PeopleChange (-1,-1,-1,-1)
